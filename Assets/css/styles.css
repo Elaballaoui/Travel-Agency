@@ -65,6 +65,7 @@ header nav ul li a:hover {
   text-transform: uppercase;
   text-align: center;
   padding: 150px 0 40px 0;
+  margin-bottom: 20px;
 }
 .button-1 {
   display: block;
@@ -77,4 +78,7 @@ header nav ul li a:hover {
   line-height: 50px;
   text-align: center;
   border-radius: 3px;
+}
+.button-1:hover {
+  background-color: aqua;
 }
